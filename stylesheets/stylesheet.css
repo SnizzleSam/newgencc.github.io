@@ -423,5 +423,36 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
+}
 
+.c:hover{
+  color:#cccccc;
+}
+
+.h:hover{
+  color:#0099ff;
+}
+
+.e:hover{
+  color:#779438;
+}
+
+.q:hover{
+  color:#ffc9f4;
+}
+
+.g:hover{
+  color:#F942FF;
+}
+
+.a:hover{
+  color:#FFF838;
+}
+
+.m:hover{
+  color:#ff0088;
+}
+
+.s:hover{
+  color:#D5FF61;
 }
